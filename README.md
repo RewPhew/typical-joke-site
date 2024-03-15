@@ -7,7 +7,7 @@
     <h2>👨🏻‍💻Tech Used</h2>
     <p>Built with HTML, CSS, and JavaScript.</p>
     <h2>💖Made by</h2>
-    <p>Rew</p> <a href="https://github.com/RewPhew">?</a>
+    <p>Rew</p>
     <h2>Feedback & Contributions</h2>
     <p>Feedback and contributions are welcome! Let's spread some laughter together! 😄</p>
 </div>
